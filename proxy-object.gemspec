@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
      "VERSION",
      "lib/proxy-object.rb",
      "lib/proxy_object.rb",
+     "proxy-object.gemspec",
      "spec/proxy_object_spec.rb",
      "spec/rcov.opts",
      "spec/spec.opts",

@@ -5,12 +5,12 @@
 
 Gem::Specification.new do |s|
   s.name = %q{proxy-object}
-  s.version = "0.0.0"
+  s.version = "1.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["David Dollar"]
   s.date = %q{2009-11-14}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{Add proxy methods easily}
   s.email = %q{<ddollar@gmail.com>}
   s.extra_rdoc_files = [
     "LICENSE",
@@ -35,7 +35,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.5}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{Add proxy methods easily}
   s.test_files = [
     "spec/proxy_object_spec.rb",
      "spec/spec_helper.rb"
